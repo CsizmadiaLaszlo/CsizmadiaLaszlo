@@ -1,8 +1,7 @@
 ### Hey! 👋
 
 - 🌱 My name is László Csizmadia.
-- 💻 I'm a Full-Stack Developer student from Hungary, who loves to learn about new things.
-- 📂 For reference, look through my pinned projects.
+- 💻 I'm a Full-Stack Developer from Hungary, who loves to learn about new things.
 - 🔗 If you have any questions, please feel free to contact me.
 
 ### How can you contact me?
